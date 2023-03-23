@@ -1,0 +1,86 @@
+\documentclass{article}
+\usepackage[a4paper, margin=1in]{geometry}
+
+\usepackage{url}
+
+
+\usepackage{graphicx}
+\usepackage[english]{babel}
+\usepackage[utf8]{inputenc}
+%\usepackage{hyperref}
+\usepackage{xcolor}
+\usepackage{subcaption}
+%\captionsetup{compatibility=false}
+\usepackage{amsmath}
+\usepackage{pgfplots}
+%\usepgfplotslibrary{external} 
+%\usepackage[dvipsnames]{xcolor}
+\usepackage{tikz}
+\usepackage{authblk}
+\usepackage{lineno}
+\linenumbers
+%\pgfplotsset{compat=newest}
+\usetikzlibrary{external}
+\tikzset{external/system call={lualatex \tikzexternalcheckshellescape 
+		-interaction=batchmode -jobname "\image" "\texsource"}} % or ;
+%	pdftops -eps "\image".pdf}}
+%
+\def\figdir{.}
+%\tikzexternalize%[shell escape=-enable-write18]
+\tikzsetexternalprefix{\figdir/tikz_compiled/}
+
+\bibliographystyle{./embedded_files/spphys}
+
+\newcommand{\rulesep}{\unskip\ \vrule\ }
+
+\begin{document}
+
+	
+\title{Title}
+\author[1]{Robert Fischer}
+\author[2]{Somebody Else}
+
+\affil[1]{Electrochemistry Laboratory, Paul Scherrer Institut, Forschungsstrasse 111, 5242 Villigen PSI, Switzerland}
+\affil[2]{lab, institute, street, city, country} 
+
+\date{\today}
+\maketitle
+
+\begin{abstract}
+		
+\textit{Hypothesis}\\
+
+
+\textit{Experiments}\\
+
+
+\textit{Findings}\\
+
+
+\end{abstract}
+%\maketitle
+
+\section{Introduction}
+
+
+
+
+\section{Methods}
+
+ 
+
+\section{Results}
+
+\section{Discussion}
+ 
+
+
+\section{Conclusion}
+
+
+
+\section*{Acknowledgments}
+
+ 
+\bibliography{./embedded_files/library}
+\end{document}
