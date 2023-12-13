@@ -12,22 +12,25 @@
 \usepackage{subcaption}
 %\captionsetup{compatibility=false}
 \usepackage{amsmath}
-\usepackage{pgfplots}
-%\usepgfplotslibrary{external} 
+
 %\usepackage[dvipsnames]{xcolor}
-\usepackage{tikz}
-\usepackage{authblk}
+
+\usepackage{authblk} %this line causes problems with some journal formats
 \usepackage{lineno}
 \linenumbers
 %\pgfplotsset{compat=newest}
+
+
+%%%%% this block calls the tikz library and externalizes the figure compiling to save calculation time
+%%%%% sometimes you have to delete the files to force recreation of the images if you made changes to the formatting and the images don't change
+\usepackage{pgfplots}
+\usepackage{tikz}
 \usetikzlibrary{external}
 \tikzset{external/system call={lualatex \tikzexternalcheckshellescape 
 		-interaction=batchmode -jobname "\image" "\texsource"}} % or ;
-%	pdftops -eps "\image".pdf}}
-%
-\def\figdir{.}
-%\tikzexternalize%[shell escape=-enable-write18]
-\tikzsetexternalprefix{\figdir/tikz_compiled/}
+%	pdftops -eps "\image".pdf}} #this line might convert your pdf-images to eps for paper submission, but always involves tweaking
+\tikzsetexternalprefix{./tikz_compiled/}
+%%%%%%%% check the embedded image tex-file for more comments
 
 \bibliographystyle{./embedded_files/spphys}
 
@@ -71,6 +74,22 @@
 
 \section{Results}
 
+\begin{figure}
+	\centering
+	\input{./embedded_files/3II_Q_anode_damage_t_filtered_calibrated_high.tex} %create this file in python or matlab or however you see fit, check the file to see its structure, esp. the the dual axis and legend
+%	\vspace{-\baselineskip} soemtimes you need baselineskip to align the captions
+	\caption{caption}
+	\label{fig:refkey}
+\end{figure}
+
+%%% simple example
+\begin{figure}
+	\centering
+	\input{./embedded_files/simple_example.tex} %create this file in python or matlab or however you see fit, check the file to see its structure
+	%	\vspace{-\baselineskip} soemtimes you need baselineskip to align the captions
+	\caption{caption}
+	\label{fig:example}
+\end{figure}
 \section{Discussion}
  
 
