@@ -1,6 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
-import tikzplotlib
+import tikzplotlib   #install by 'conda install matplotlib=3.7 tikzplotlib'  , unfortunately newer matplotlib is currently not compatible with tikzplotlib, use virt env if necessary
 import os
 
 x = np.arange(100)

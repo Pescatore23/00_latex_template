@@ -1,0 +1,1 @@
+pdflatex.exe -synctex=1 -pool-size=40000000 -extra-mem-bot=160000000 -extra-mem-top=160000000 -interaction=nonstopmode -shell-escape bpm_delamination.tex

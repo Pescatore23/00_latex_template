@@ -4,6 +4,12 @@
 \definecolor{darkgray176}{RGB}{176,176,176}
 
 \begin{axis}[
+%manually add these 3 line to every axis to define image size, maybe there is an option in tikzplotlib, let me know if you find it
+%you can use any latex distances I guess
+width=\textwidth,
+height=0.3\textheight,
+ylabel near ticks,
+%%%
 tick align=outside,
 tick pos=left,
 x grid style={darkgray176},
