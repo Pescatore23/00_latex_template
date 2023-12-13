@@ -16,8 +16,8 @@
 %\usepackage[dvipsnames]{xcolor}
 
 \usepackage{authblk} %this line causes problems with some journal formats
-\usepackage{lineno}
-\linenumbers
+%\usepackage{lineno}
+%\linenumbers
 %\pgfplotsset{compat=newest}
 
 
@@ -26,10 +26,12 @@
 \usepackage{pgfplots}
 \usepackage{tikz}
 \usetikzlibrary{external}
+\tikzexternalize
+\tikzsetexternalprefix{./tikz_compiled/}
 \tikzset{external/system call={lualatex \tikzexternalcheckshellescape 
 		-interaction=batchmode -jobname "\image" "\texsource"}} % or ;
 %	pdftops -eps "\image".pdf}} #this line might convert your pdf-images to eps for paper submission, but always involves tweaking
-\tikzsetexternalprefix{./tikz_compiled/}
+
 %%%%%%%% check the embedded image tex-file for more comments
 
 \bibliographystyle{./embedded_files/spphys}

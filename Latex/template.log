@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.10.19)  13 DEC 2023 10:25
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.10.19)  13 DEC 2023 11:01
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -237,42 +237,6 @@ Package: authblk 2001/02/27 1.3 (PWD)
 \c@Maxaffil=\count280
 \c@authors=\count281
 \c@affil=\count282
-) (C:\Users\fische_r\AppData\Local\Programs\MiKTeX\tex/latex/lineno\lineno.sty
-Package: lineno 2023/05/20 line numbers on paragraphs v5.3
-
-(C:\Users\fische_r\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.st
-y
-Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count283
-)
-(C:\Users\fische_r\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.
-sty
-Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
-
-(C:\Users\fische_r\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.st
-y
-Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
-)
-(C:\Users\fische_r\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.
-sty
-Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
-))
-\linenopenalty=\count284
-\output=\toks26
-\linenoprevgraf=\count285
-\linenumbersep=\dimen169
-\linenumberwidth=\dimen170
-\c@linenumber=\count286
-\c@pagewiselinenumber=\count287
-\c@LN@truepage=\count288
-\c@internallinenumber=\count289
-\c@internallinenumbers=\count290
-\quotelinenumbersep=\dimen171
-\bframerule=\dimen172
-\bframesep=\dimen173
-\bframebox=\box53
-\linenoamsmath@ams@eqpen=\count291
-LaTeX Info: Redefining \\ on input line 3180.
 )
 (C:\Users\fische_r\AppData\Local\Programs\MiKTeX\tex/latex/pgfplots\pgfplots.st
 y
@@ -288,13 +252,13 @@ ty
 .sty
 (C:\Users\fische_r\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfu
 til-common.tex
-\pgfutil@everybye=\toks27
-\pgfutil@tempdima=\dimen174
-\pgfutil@tempdimb=\dimen175
+\pgfutil@everybye=\toks26
+\pgfutil@tempdima=\dimen169
+\pgfutil@tempdimb=\dimen170
 )
 (C:\Users\fische_r\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfu
 til-latex.def
-\pgfutil@abb=\box54
+\pgfutil@abb=\box53
 )
 (C:\Users\fische_r\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfr
 cs.code.tex
@@ -314,33 +278,33 @@ Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
 
 (C:\Users\fische_r\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfk
 eys.code.tex
-\pgfkeys@pathtoks=\toks28
-\pgfkeys@temptoks=\toks29
+\pgfkeys@pathtoks=\toks27
+\pgfkeys@temptoks=\toks28
 
 (C:\Users\fische_r\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfk
 eyslibraryfiltered.code.tex
-\pgfkeys@tmptoks=\toks30
+\pgfkeys@tmptoks=\toks29
 ))
-\pgf@x=\dimen176
-\pgf@y=\dimen177
-\pgf@xa=\dimen178
-\pgf@ya=\dimen179
-\pgf@xb=\dimen180
-\pgf@yb=\dimen181
-\pgf@xc=\dimen182
-\pgf@yc=\dimen183
-\pgf@xd=\dimen184
-\pgf@yd=\dimen185
+\pgf@x=\dimen171
+\pgf@y=\dimen172
+\pgf@xa=\dimen173
+\pgf@ya=\dimen174
+\pgf@xb=\dimen175
+\pgf@yb=\dimen176
+\pgf@xc=\dimen177
+\pgf@yc=\dimen178
+\pgf@xd=\dimen179
+\pgf@yd=\dimen180
 \w@pgf@writea=\write3
 \r@pgf@reada=\read3
-\c@pgf@counta=\count292
-\c@pgf@countb=\count293
-\c@pgf@countc=\count294
-\c@pgf@countd=\count295
-\t@pgf@toka=\toks31
-\t@pgf@tokb=\toks32
-\t@pgf@tokc=\toks33
-\pgf@sys@id@count=\count296
+\c@pgf@counta=\count283
+\c@pgf@countb=\count284
+\c@pgf@countc=\count285
+\c@pgf@countd=\count286
+\t@pgf@toka=\toks30
+\t@pgf@tokb=\toks31
+\t@pgf@tokc=\toks32
+\pgf@sys@id@count=\count287
 
 (C:\Users\fische_r\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pg
 f.cfg
@@ -359,8 +323,8 @@ File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
 (C:\Users\fische_r\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pg
 fsyssoftpath.code.tex
 File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfsyssoftpath@smallbuffer@items=\count297
-\pgfsyssoftpath@bigbuffer@items=\count298
+\pgfsyssoftpath@smallbuffer@items=\count288
+\pgfsyssoftpath@bigbuffer@items=\count289
 )
 (C:\Users\fische_r\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pg
 fsysprotocol.code.tex
@@ -376,12 +340,12 @@ ode.tex
 il.code.tex)
 (C:\Users\fische_r\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathpa
 rser.code.tex
-\pgfmath@dimen=\dimen186
-\pgfmath@count=\count299
-\pgfmath@box=\box55
-\pgfmath@toks=\toks34
-\pgfmath@stack@operand=\toks35
-\pgfmath@stack@operation=\toks36
+\pgfmath@dimen=\dimen181
+\pgfmath@count=\count290
+\pgfmath@box=\box54
+\pgfmath@toks=\toks33
+\pgfmath@stack@operand=\toks34
+\pgfmath@stack@operation=\toks35
 )
 (C:\Users\fische_r\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfu
 nctions.code.tex)
@@ -405,59 +369,59 @@ nctions.integerarithmetics.code.tex)
 lc.code.tex)
 (C:\Users\fische_r\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfl
 oat.code.tex
-\c@pgfmathroundto@lastzeros=\count300
+\c@pgfmathroundto@lastzeros=\count291
 ))
 (C:\Users\fische_r\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.co
 de.tex)
 (C:\Users\fische_r\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgf
 corepoints.code.tex
 File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@picminx=\dimen187
-\pgf@picmaxx=\dimen188
-\pgf@picminy=\dimen189
-\pgf@picmaxy=\dimen190
-\pgf@pathminx=\dimen191
-\pgf@pathmaxx=\dimen192
-\pgf@pathminy=\dimen193
-\pgf@pathmaxy=\dimen194
-\pgf@xx=\dimen195
-\pgf@xy=\dimen196
-\pgf@yx=\dimen197
-\pgf@yy=\dimen198
-\pgf@zx=\dimen199
-\pgf@zy=\dimen256
+\pgf@picminx=\dimen182
+\pgf@picmaxx=\dimen183
+\pgf@picminy=\dimen184
+\pgf@picmaxy=\dimen185
+\pgf@pathminx=\dimen186
+\pgf@pathmaxx=\dimen187
+\pgf@pathminy=\dimen188
+\pgf@pathmaxy=\dimen189
+\pgf@xx=\dimen190
+\pgf@xy=\dimen191
+\pgf@yx=\dimen192
+\pgf@yy=\dimen193
+\pgf@zx=\dimen194
+\pgf@zy=\dimen195
 )
 (C:\Users\fische_r\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgf
 corepathconstruct.code.tex
 File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@path@lastx=\dimen257
-\pgf@path@lasty=\dimen258
+\pgf@path@lastx=\dimen196
+\pgf@path@lasty=\dimen197
 )
 (C:\Users\fische_r\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgf
 corepathusage.code.tex
 File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@shorten@end@additional=\dimen259
-\pgf@shorten@start@additional=\dimen260
+\pgf@shorten@end@additional=\dimen198
+\pgf@shorten@start@additional=\dimen199
 )
 (C:\Users\fische_r\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgf
 corescopes.code.tex
 File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfpic=\box56
-\pgf@hbox=\box57
-\pgf@layerbox@main=\box58
-\pgf@picture@serial@count=\count301
+\pgfpic=\box55
+\pgf@hbox=\box56
+\pgf@layerbox@main=\box57
+\pgf@picture@serial@count=\count292
 )
 (C:\Users\fische_r\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgf
 coregraphicstate.code.tex
 File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgflinewidth=\dimen261
+\pgflinewidth=\dimen256
 )
 (C:\Users\fische_r\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgf
 coretransformations.code.tex
 File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@pt@x=\dimen262
-\pgf@pt@y=\dimen263
-\pgf@pt@temp=\dimen264
+\pgf@pt@x=\dimen257
+\pgf@pt@y=\dimen258
+\pgf@pt@temp=\dimen259
 )
 (C:\Users\fische_r\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgf
 corequick.code.tex
@@ -474,14 +438,14 @@ File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
 (C:\Users\fische_r\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgf
 corearrows.code.tex
 File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfarrowsep=\dimen265
+\pgfarrowsep=\dimen260
 )
 (C:\Users\fische_r\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgf
 coreshade.code.tex
 File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@max=\dimen266
-\pgf@sys@shading@range@num=\count302
-\pgf@shadingcount=\count303
+\pgf@max=\dimen261
+\pgf@sys@shading@range@num=\count293
+\pgf@shadingcount=\count294
 )
 (C:\Users\fische_r\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgf
 coreimage.code.tex
@@ -490,7 +454,7 @@ File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
 (C:\Users\fische_r\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgf
 coreexternal.code.tex
 File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfexternal@startupbox=\box59
+\pgfexternal@startupbox=\box58
 )
 (C:\Users\fische_r\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgf
 corelayers.code.tex
@@ -511,7 +475,7 @@ File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
 (C:\Users\fische_r\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmod
 uleshapes.code.tex
 File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfnodeparttextbox=\box60
+\pgfnodeparttextbox=\box59
 )
 (C:\Users\fische_r\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmod
 uleplot.code.tex
@@ -520,8 +484,8 @@ File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
 (C:\Users\fische_r\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pg
 fcomp-version-0-65.sty
 Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
-\pgf@nodesepstart=\dimen267
-\pgf@nodesepend=\dimen268
+\pgf@nodesepstart=\dimen262
+\pgf@nodesepend=\dimen263
 )
 (C:\Users\fische_r\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pg
 fcomp-version-1-18.sty
@@ -540,10 +504,10 @@ ode.tex))
 (C:\Users\fische_r\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgff
 or.code.tex
 Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
-\pgffor@iter=\dimen269
-\pgffor@skip=\dimen270
-\pgffor@stack=\toks37
-\pgffor@toks=\toks38
+\pgffor@iter=\dimen264
+\pgffor@skip=\dimen265
+\pgffor@stack=\toks36
+\pgffor@toks=\toks37
 ))
 (C:\Users\fische_r\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/
 tikz\tikz.code.tex
@@ -552,34 +516,34 @@ Package: tikz 2023-01-15 v3.1.10 (3.1.10)
 (C:\Users\fische_r\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgfl
 ibraryplothandlers.code.tex
 File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@plot@mark@count=\count304
-\pgfplotmarksize=\dimen271
+\pgf@plot@mark@count=\count295
+\pgfplotmarksize=\dimen266
 )
-\tikz@lastx=\dimen272
-\tikz@lasty=\dimen273
-\tikz@lastxsaved=\dimen274
-\tikz@lastysaved=\dimen275
-\tikz@lastmovetox=\dimen276
-\tikz@lastmovetoy=\dimen277
-\tikzleveldistance=\dimen278
-\tikzsiblingdistance=\dimen279
-\tikz@figbox=\box61
-\tikz@figbox@bg=\box62
-\tikz@tempbox=\box63
-\tikz@tempbox@bg=\box64
-\tikztreelevel=\count305
-\tikznumberofchildren=\count306
-\tikznumberofcurrentchild=\count307
-\tikz@fig@count=\count308
+\tikz@lastx=\dimen267
+\tikz@lasty=\dimen268
+\tikz@lastxsaved=\dimen269
+\tikz@lastysaved=\dimen270
+\tikz@lastmovetox=\dimen271
+\tikz@lastmovetoy=\dimen272
+\tikzleveldistance=\dimen273
+\tikzsiblingdistance=\dimen274
+\tikz@figbox=\box60
+\tikz@figbox@bg=\box61
+\tikz@tempbox=\box62
+\tikz@tempbox@bg=\box63
+\tikztreelevel=\count296
+\tikznumberofchildren=\count297
+\tikznumberofcurrentchild=\count298
+\tikz@fig@count=\count299
 
 (C:\Users\fische_r\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmod
 ulematrix.code.tex
 File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfmatrixcurrentrow=\count309
-\pgfmatrixcurrentcolumn=\count310
-\pgf@matrix@numberofcolumns=\count311
+\pgfmatrixcurrentrow=\count300
+\pgfmatrixcurrentcolumn=\count301
+\pgf@matrix@numberofcolumns=\count302
 )
-\tikz@expandcount=\count312
+\tikz@expandcount=\count303
 
 (C:\Users\fische_r\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/
 tikz/libraries\tikzlibrarytopaths.code.tex
@@ -589,12 +553,12 @@ File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
 code.tex
 (C:\Users\fische_r\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsc
 ore.code.tex
-\t@pgfplots@toka=\toks39
-\t@pgfplots@tokb=\toks40
-\t@pgfplots@tokc=\toks41
-\pgfplots@tmpa=\dimen280
-\c@pgfplots@coordindex=\count313
-\c@pgfplots@scanlineindex=\count314
+\t@pgfplots@toka=\toks38
+\t@pgfplots@tokb=\toks39
+\t@pgfplots@tokc=\toks40
+\pgfplots@tmpa=\dimen275
+\c@pgfplots@coordindex=\count304
+\c@pgfplots@scanlineindex=\count305
 
 (C:\Users\fische_r\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/sys\pgfpl
 otssysgeneric.code.tex))
@@ -605,9 +569,9 @@ patib\pgfplotsoldpgfsupp_loader.code.tex
 (C:\Users\fische_r\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgfl
 ibraryfpu.code.tex)
 Package pgfplots: loading complementary utilities for your pgf version...
-\t@pgf@toka=\toks42
-\t@pgf@tokb=\toks43
-\t@pgf@tokc=\toks44
+\t@pgf@toka=\toks41
+\t@pgf@tokb=\toks42
+\t@pgf@tokc=\toks43
 
 (C:\Users\fische_r\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/oldpgfcom
 patib\pgfplotsoldpgfsupp_pgfutil-common-lists.tex))
@@ -619,14 +583,14 @@ ture\pgfplotsliststructure.code.tex)
 ture\pgfplotsliststructureext.code.tex)
 (C:\Users\fische_r\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststruc
 ture\pgfplotsarray.code.tex
-\c@pgfplotsarray@tmp=\count315
+\c@pgfplotsarray@tmp=\count306
 )
 (C:\Users\fische_r\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststruc
 ture\pgfplotsmatrix.code.tex)
 (C:\Users\fische_r\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/numtable\
 pgfplotstableshared.code.tex
-\c@pgfplotstable@counta=\count316
-\t@pgfplotstable@a=\toks45
+\c@pgfplotstable@counta=\count307
+\t@pgfplotstable@a=\toks44
 )
 (C:\Users\fische_r\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststruc
 ture\pgfplotsdeque.code.tex)
@@ -638,7 +602,7 @@ lotsbinary.data.code.tex))
 lotsutil.verb.code.tex)
 (C:\Users\fische_r\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs\pgfl
 ibrarypgfplots.surfshading.code.tex
-\c@pgfplotslibrarysurf@no=\count317
+\c@pgfplotslibrarysurf@no=\count308
 
 (C:\Users\fische_r\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/sys\pgfli
 brarypgfplots.surfshading.pgfsys-pdftex.def)))
@@ -670,16 +634,16 @@ paths.code.tex)
 tikz/libraries\tikzlibrarydecorations.code.tex
 (C:\Users\fische_r\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmod
 uledecorations.code.tex
-\pgfdecoratedcompleteddistance=\dimen281
-\pgfdecoratedremainingdistance=\dimen282
-\pgfdecoratedinputsegmentcompleteddistance=\dimen283
-\pgfdecoratedinputsegmentremainingdistance=\dimen284
-\pgf@decorate@distancetomove=\dimen285
-\pgf@decorate@repeatstate=\count318
-\pgfdecorationsegmentamplitude=\dimen286
-\pgfdecorationsegmentlength=\dimen287
+\pgfdecoratedcompleteddistance=\dimen276
+\pgfdecoratedremainingdistance=\dimen277
+\pgfdecoratedinputsegmentcompleteddistance=\dimen278
+\pgfdecoratedinputsegmentremainingdistance=\dimen279
+\pgf@decorate@distancetomove=\dimen280
+\pgf@decorate@repeatstate=\count309
+\pgfdecorationsegmentamplitude=\dimen281
+\pgfdecorationsegmentlength=\dimen282
 )
-\tikz@lib@dec@box=\box65
+\tikz@lib@dec@box=\box64
 )
 (C:\Users\fische_r\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/
 tikz/libraries\tikzlibrarydecorations.pathmorphing.code.tex
@@ -691,13 +655,13 @@ tikz/libraries\tikzlibrarydecorations.pathreplacing.code.tex
 rations\pgflibrarydecorations.pathreplacing.code.tex))
 (C:\Users\fische_r\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs\tikz
 librarypgfplots.contourlua.code.tex)
-\pgfplots@numplots=\count319
-\pgfplots@xmin@reg=\dimen288
-\pgfplots@xmax@reg=\dimen289
-\pgfplots@ymin@reg=\dimen290
-\pgfplots@ymax@reg=\dimen291
-\pgfplots@zmin@reg=\dimen292
-\pgfplots@zmax@reg=\dimen293
+\pgfplots@numplots=\count310
+\pgfplots@xmin@reg=\dimen283
+\pgfplots@xmax@reg=\dimen284
+\pgfplots@ymin@reg=\dimen285
+\pgfplots@ymax@reg=\dimen286
+\pgfplots@zmin@reg=\dimen287
+\pgfplots@zmax@reg=\dimen288
 )
 (C:\Users\fische_r\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/
 tikz/libraries\tikzlibraryplotmarks.code.tex
@@ -718,6 +682,10 @@ Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
 r.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
+(C:\Users\fische_r\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.st
+y
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
@@ -730,28 +698,31 @@ with kernel methods
 )
 (C:\Users\fische_r\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/
 tikz/libraries\tikzexternalshared.code.tex))
+\openout3 = `template.auxlock'.
+
+
 (C:\Users\fische_r\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-
 pdftex.def
 File: l3backend-pdftex.def 2023-10-10 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count320
-\l__pdf_internal_box=\box66
+\l__color_backend_stack_int=\count311
+\l__pdf_internal_box=\box65
 ) (template.aux)
 \openout1 = `template.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -791,17 +762,17 @@ LaTeX Font Info:    ... okay on input line 39.
 (C:\Users\fische_r\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf
 .mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count321
-\scratchdimen=\dimen294
-\scratchbox=\box67
-\nofMPsegments=\count322
-\nofMParguments=\count323
-\everyMPshowfont=\toks46
-\MPscratchCnt=\count324
-\MPscratchDim=\dimen295
-\MPnumerator=\count325
-\makeMPintoPDFobject=\count326
-\everyMPtoPDFconversion=\toks47
+\scratchcounter=\count312
+\scratchdimen=\dimen289
+\scratchbox=\box66
+\nofMPsegments=\count313
+\nofMParguments=\count314
+\everyMPshowfont=\toks45
+\MPscratchCnt=\count315
+\MPscratchDim=\dimen290
+\MPnumerator=\count316
+\makeMPintoPDFobject=\count317
+\everyMPtoPDFconversion=\toks46
 )
 (C:\Users\fische_r\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopd
 f-base.sty
@@ -820,49 +791,80 @@ Package caption Info: End \AtBeginDocument code.
 Package pgfplots Warning: running in backwards compatibility mode (unsuitable t
 ick labels; missing features). Consider writing \pgfplotsset{compat=1.18} into 
 your preamble.
- on input line 39.
+ on input line 41.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 54--55
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 57--58
+Underfull \hbox (badness 10000) in paragraph at lines 56--57
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 60--61
+Underfull \hbox (badness 10000) in paragraph at lines 59--60
 
  []
 
-(embedded_files/3II_Q_anode_damage_t_filtered_calibrated_high.tex)
-Overfull \hbox (20.26846pt too wide) in paragraph at lines 19762--81
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--63
+
+ []
+
+(embedded_files/3II_Q_anode_damage_t_filtered_calibrated_high.tex
+\openout3 = `./tikz_compiled/template-figure0.md5'.
+
+\openout3 = `template.auxlock'.
+
+
+===== 'mode=convert with system call': Invoking 'lualatex -shell-escape -intera
+ction=batchmode -jobname "./tikz_compiled/template-figure0" "\def\tikzexternalr
+ealjob{template}\input{template}"' ========
+runsystem(lualatex -shell-escape -interaction=batchmode -jobname "./tikz_compil
+ed/template-figure0" "\def\tikzexternalrealjob{template}\input{template}")...ex
+ecuted.
+
+\openout3 = `template.auxlock'.
+
+)
+Overfull \hbox (20.2681pt too wide) in paragraph at lines 2--83
  [][] 
  []
 
-(embedded_files/simple_example.tex) (template.bbl
+(embedded_files/simple_example.tex
+\openout3 = `./tikz_compiled/template-figure1.md5'.
+
+\openout3 = `template.auxlock'.
+
+
+===== 'mode=convert with system call': Invoking 'lualatex -shell-escape -intera
+ction=batchmode -jobname "./tikz_compiled/template-figure1" "\def\tikzexternalr
+ealjob{template}\input{template}"' ========
+runsystem(lualatex -shell-escape -interaction=batchmode -jobname "./tikz_compil
+ed/template-figure1" "\def\tikzexternalrealjob{template}\input{template}")...ex
+ecuted.
+
+\openout3 = `template.auxlock'.
+
+) (template.bbl
 
 LaTeX Warning: Empty `thebibliography' environment on input line 9.
 
 ) [1
 
 {C:/Users/fische_r/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-[2] (template.aux)
+[2 <./tikz_compiled/template-figure0.pdf> <./tikz_compiled/template-figure1.pdf
+>] (template.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-10-10>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 27558 strings out of 474823
- 701035 string characters out of 39499539
- 170927518 words of memory out of 174007475
- 49071 multiletter control sequences out of 15000+600000
- 564089 words of font info for 57 fonts, out of 8000000 for 9000
+ 26281 strings out of 474823
+ 674831 string characters out of 39499539
+ 166471854 words of memory out of 169551811
+ 47805 multiletter control sequences out of 15000+600000
+ 563335 words of font info for 54 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,19n,101p,723b,2359s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 99i,5n,101p,723b,609s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/fische_r/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/
 cm/cmbx12.pfb><C:/Users/fische_r/AppData/Local/Programs/MiKTeX/fonts/type1/publ
 ic/amsfonts/cm/cmbx9.pfb><C:/Users/fische_r/AppData/Local/Programs/MiKTeX/fonts
@@ -873,11 +875,10 @@ ppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users
 /fische_r/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb
 ><C:/Users/fische_r/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/c
 m/cmr8.pfb><C:/Users/fische_r/AppData/Local/Programs/MiKTeX/fonts/type1/public/
-amsfonts/cm/cmss8.pfb><C:/Users/fische_r/AppData/Local/Programs/MiKTeX/fonts/ty
-pe1/public/amsfonts/cm/cmti9.pfb>
-Output written on template.pdf (2 pages, 269568 bytes).
+amsfonts/cm/cmti9.pfb>
+Output written on template.pdf (2 pages, 264363 bytes).
 PDF statistics:
- 62 PDF objects out of 1000 (max. 8388607)
+ 84 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 13 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 23 words of extra memory for PDF output out of 10000 (max. 10000000)
 
